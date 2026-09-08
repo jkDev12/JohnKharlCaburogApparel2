@@ -95,11 +95,27 @@
 
 </div>
 
-<div class="bg1-space">
-    <img class="bg1" src="images/depositphotos_312437386-stock-photo-black-monochromatic-clothes-accessories-beauty.jpg"> 
-   
-</div>
+      <div class="bg1-space">
 
+        <div>    
+          <img class="bg1" src="images/depositphotos_312437386-stock-photo-black-monochromatic-clothes-accessories-beauty.jpg">
+        </div> 
+        <div class="moto">
+          <p class= "moto1">Quite Style<p>
+          <p class= "moto2">Loud Impact<p>   
+          <p class= "motosub">Where product quality exceeds it’s price and exudes confidence<p>
+        </div>
+
+
+        <div class="benefits">
+
+          <img class="diamond1" src="images/Asset 4.png">
+          <img class="diamond2" src="images/Asset 4.png">
+          <img class="diamond3" src="images/Asset 4.png">
+
+        </div>
+
+      </div>
     </body>
     
     

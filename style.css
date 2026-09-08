@@ -14,7 +14,7 @@ body {
 
 .header-left-section {
 
-	width: 500px;
+	width: 850px;
 	display: flex;
 	flex-direction: row;
 }
@@ -33,12 +33,15 @@ body {
 
 
 .header {
+
     background-color: black;
     display: flex;
     flex-direction: row;
-    width: 1080px;
+    width: 1920px;
     align-items: center;
 		justify-content: space-between;
+        position: fixed;
+        z-index: 100;
 }
 
 
@@ -98,11 +101,71 @@ margin-right: 200px;
 
 
 .bg1-space {
-  width: 1080px;
 
+  width: 1590px;
+  height: 2600px;
+
+}
+
+.moto {
+
+  font-size: 140px;
+}
+
+.moto1 {
+ 
+  color: white;
+  position: absolute;
+  left: 30px;
+  top: 60px;
+}
+
+.moto2 {
+ 
+  color: goldenrod;
+  position: absolute;
+  left: 100px;
+  top: 200px;
+}
+
+.motosub {
+     font-size: 40px;
+     color: white;
+     position: absolute;
+     left: 30px;
+     top: 500px;
+     width: 700px;
+}
+
+.diamond1 {
+     height: 450px;
+     width: 450px;
+     position: absolute;
+     left: 25px;
+     top: 720px;
+
+}
+
+.diamond2 {
+     height: 450px;
+     width: 450px;
+     position: absolute;
+     left: 540px;
+     top: 720px;
+
+}
+
+.diamond3 {
+     height: 450px;
+     width: 450px;
+     position: absolute;
+     right: 25px;
+     top: 720px;
 
 }
 
 .bg1 {
-    width: 100%;
+    width: 1590px;
+    height: 2600px;
+    position: relative;
 }
