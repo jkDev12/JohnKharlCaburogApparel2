@@ -40,7 +40,6 @@ body {
     width: 1920px;
     align-items: center;
 		justify-content: space-between;
-        position: fixed;
         z-index: 100;
 }
 
@@ -104,6 +103,8 @@ margin-right: 200px;
 
   width: 1590px;
   height: 2600px;
+  display: block;
+  position: relative;
 
 }
 
@@ -137,6 +138,12 @@ margin-right: 200px;
      width: 700px;
 }
 
+.bg1 {
+    width: 1590px;
+    height: 2600px;
+    position: relative;
+}
+
 .diamond1 {
      height: 450px;
      width: 450px;
@@ -164,8 +171,28 @@ margin-right: 200px;
 
 }
 
-.bg1 {
+.secondsectiontitlecard {
+     position: absolute;
+     top: 1350px;
+     left: 0;
+     height: 300px;
+     width: 1200px;
+
+}
+
+.bg2-space {
+
+  width: 1590px;
+  height: 2600px;
+  display:block;
+
+}
+
+.bg2 {
+    top: -150px;
     width: 1590px;
     height: 2600px;
     position: relative;
 }
+
+
