@@ -56,7 +56,7 @@
 
             <div>
             
-              <button class="menu-button">Gallery</button>
+              <button class="menu-button">GALLERY</button>
 
             </div>
 
@@ -68,7 +68,7 @@
              
             <div>
               
-              <button class="menu-button">HOME</button>
+              <button class="menu-button">ABOUT</button>
 
             </div>
 
@@ -78,6 +78,12 @@
 <div class="top-buttons">
     <div>
         <button class="menu-button">CONTACT</button>
+    </div>
+</div>
+
+<div class="top-buttons">
+    <div>
+        <button class="login-button">LOG IN</button>
     </div>
 </div>
 
