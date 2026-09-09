@@ -117,6 +117,35 @@
             <img class="about-us-img" src="images/aboutusimg.png">
         </div>
 
+        <div class="bg3-space">
+            <img class="bg3" src="images/images (1).jpg">
+        <div class="check-boxes">
+            <img id= "check-box1" class="check-box" src="images/checkandbox.png">
+            <img id= "check-box2" class="check-box" src="images/checkandbox.png">
+            <img id= "check-box3" class="check-box" src="images/checkandbox.png">
+            <img id= "check-box4" class="check-box" src="images/checkandbox.png">
+        </div>
+            <div>
+                <p class="why-header">WHY US?</p>
+            </div>
+            <div>
+                <p id="why-text1" class="why-text">Cheaper than the competition</p>
+                <p id="why-text2" class="why-text">Higher quality than the competition</p>
+                <p id="why-text3" class="why-text">Materials are first rate</p>
+                <p id="why-text4" class="why-text">Unmatched quality check</p>
+            </div>
+        <div>
+                <img class="why-card" src="images/Gemini_Generated_Image_a2imw4a2imw4a2im.jpg">
+                <p class="why-card-text">
+        </div>
+
+        <div class=bg4-space>
+            <img class="bg4" src="images/black-color-solid-background-1920x1080.png">
+            <div>
+                <img class="feedback-card" src="
+                <h1 class="feedback-header">Dont take our word for it</h1>
+            </div>
+        </div>
     </div>
 
 </body>
