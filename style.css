@@ -20,7 +20,7 @@ body {
     width: 1920px;
     align-items: center;
     justify-content: space-between;
-    z-index: 100;
+    z-index: 99;
 }
 
 .header-left-section {
@@ -172,7 +172,7 @@ body {
 .gallery-section {
     width: 1590px;
     height: 1000px;
-    z-index: 1000;
+    z-index: 100;
     display: flex;
     position: relative;
 }
@@ -181,10 +181,10 @@ body {
 /*BG2*/
 
 .bg2-space {
-
     width: 1590px;
     height: 2600px;
     display: block;
+    position: relative;   /* NEW — makes this the anchor for .ab-header */
 }
 
 .bg2 {
@@ -232,4 +232,51 @@ body {
     color: white;
     font-size: 40px;
     border-style: solid;
+}
+
+
+.ab-header {
+    font-size: 80px;         
+    color: goldenrod;
+    margin: 0;
+    position: absolute;       
+    top: 10px;                
+    left: 25%;                
+    transform: translateX(-50%); 
+    white-space: nowrap;      
+    z-index: 101;
+}
+
+.ab-body {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 700px;
+    font-size: 40px;         
+    color: white;
+    margin: 0;
+    position: absolute;       
+    top: 200px;                
+    left: 40px;      
+    z-index: 102;
+    padding: 50px;
+}
+
+#point1 {
+    top: 900px;
+}
+
+#point2 {
+    top: 1090px;
+}
+
+#point3 {
+    top: 1280px;
+}
+
+.about-us-img {
+
+    height: 400px;
+    z-index: 102;
+    position:absolute;
+    right: 10%;
+    top: 130px;
 }

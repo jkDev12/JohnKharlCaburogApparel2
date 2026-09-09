@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=2">
 
     <title>John Kharl Caburog Apparel</title>
 
@@ -106,7 +106,15 @@
 
         <!-- BG2 -->
         <div class="bg2-space">
-            <img class="bg2" src="images/360_F_104948871_xsXOz7JdVHtfgYgbRcrTaORTRCcUiKmV.jpg" alt="Background pattern">
+            <img class="bg2" src="images/360_F_104948871_xsXOz7JdVHtfgYgbRcrTaORTRCcUiKmV.jpg">
+            <div>
+                <p class="ab-header">ABOUT US</p>
+                <p class="ab-body">Welcome to John Kharl Caburog Apparel—where product quality exceeds expectations and exudes quiet confidence. Founded on the belief that everyday wear should feel luxurious, durable, and understated, we focus on what truly matters: superior fabrics, precision craftsmanship, and timeless silhouettes. Whether it's an essential hoodie or a clean-cut pair of denim, our pieces are built to last and designed to complement your presence, not distract from it. Why Choose Us?</p>
+                <p id="point1" class="ab-body">100% Authentic Quality: Made with first-rate materials and rigorous quality checks.</p>
+                <p id="point2" class="ab-body">Built to Last: Every piece is engineered for long-term durability and shape retention.</p>
+                <p id="point3" class="ab-body">Unbeatable Value: High-end craftsmanship delivered without the luxury markup.</p>
+            </div>
+            <img class="about-us-img" src="images/aboutusimg.png">
         </div>
 
     </div>
