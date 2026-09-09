@@ -153,6 +153,11 @@
             </div>
             <img class="bottom-stripes" src="images/bottom stripe.png">
         </div>
+
+        <div class="bg5">
+            <img class="bg5" src="images/images.png">
+            
+        <div>
     </div>
 
 </body>

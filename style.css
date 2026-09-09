@@ -468,3 +468,18 @@ body {
     top: -460px;
     left: 0%;
 }
+
+.bg5-space {
+    width: 1590px;
+    height: 2600px;
+    display: block;
+    position: relative;
+
+}
+
+.bg5 {
+    top: -1330px;
+    width: 1590px;
+    height: 1000px;
+    position: relative;
+}
