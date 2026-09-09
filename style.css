@@ -158,11 +158,74 @@ body {
     top: 720px;
 }
 
+.diamond-header {
+    width: 700px;
+    font-size: 30px;         
+    color: goldenrod;
+    margin: 0;
+    position: absolute;         
+    z-index: 102;
+    top: 850px;
+}
+
+#diamond-header1 {
+    left: 10%;
+
+}
+
+#diamond-header2 {
+    left: 41.5%;
+
+}
+
+#diamond-header3 {
+    left: 80%;
+
+}
+
+.diamond-text {
+    width: 700px;
+    font-size: 25px;         
+    color: white;
+    margin: 0;
+    position: absolute;         
+    z-index: 102;
+    top: 900px;
+}
+
+#diamond-text1 {
+    left: 6%;
+
+}
+
+#diamond-text2 {
+    left: 39.5%;
+    width: 300px;
+
+}
+
+#diamond-text3 {
+    left: 75%;
+    width: 300px;
+
+}
+
+.second-section-title {
+    font-weight: bold;
+    font-size: 60px;         
+    color: white;
+    margin: 0;
+    position: absolute;         
+    z-index: 102;
+    top: 1720px;
+    left: 3.5%;
+}
+
 .secondsectiontitlecard {
     position: absolute;
-    top: 1350px;
+    top: 1650px;
     left: 0;
-    height: 300px;
+    height: 200px;
     width: 1200px;
 }
 
@@ -482,4 +545,41 @@ body {
     width: 1590px;
     height: 1000px;
     position: relative;
+}
+
+.footer-logo {
+    top: -1200px;
+    height: 200px;
+    position: absolute;
+    left: 6%
+}
+
+.footer-brand {
+    font-weight: bolder;
+    width: 250px;
+    font-size: 40px;         
+    color: white;
+    margin: 0;
+    position: absolute;         
+    z-index: 102;
+    top: -1200px;
+    left:22%;
+}
+
+.app-store {
+    top: -1025px;
+    height: 50px;
+    width: 140px;
+    position: absolute;
+    left: 22%;
+    border-radius: 20px;
+}
+
+.play-store {
+    top: -1025px;
+    height: 50px;
+    position: absolute;
+    left: 33%;
+    border-radius: 20px;
+    width: 140px;
 }

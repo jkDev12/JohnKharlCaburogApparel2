@@ -69,13 +69,20 @@
             <div class="benefits">
                 <div class="diamonds">
                     <img class="diamond1" src="images/Asset 4.png" alt="">
+                    <p id="diamond-header1" class="diamond-header">100% LEGIT</p>
+                    <p id="diamond-text1" class="diamond-text">All our products are authentic</p>
                     <img class="diamond2" src="images/Asset 4.png" alt="">
+                    <p id="diamond-header2" class="diamond-header">HIGH QUALITY</p>
+                    <p id="diamond-text2" class="diamond-text">Our products are made with high quality materials</p>
                     <img class="diamond3" src="images/Asset 4.png" alt="">
+                    <p id="diamond-header3" class="diamond-header">DURABLE</p>
+                    <p id="diamond-text3" class="diamond-text">Every product you purchase is guaranteed to last</p>
                 </div>
             </div>
 
             <div class="second-section">
                 <img class="secondsectiontitlecard" src="images/2ndsectiontitlecard.png" alt="">
+                <p class="second-section-title">TAKE A LOOK AT OUR COLLECTION</p>
             </div>
 
         </div>
@@ -156,7 +163,13 @@
 
         <div class="bg5">
             <img class="bg5" src="images/images.png">
-            
+            <div>
+                <img class="footer-logo" src="images/logo.png">
+                <p class="footer-brand">John Kharl Caburog Apparel</p>
+                <img class="app-store" src="images/playstore@3x.png">
+                <img class="play-store" src="images/appstore@3x.png">
+            </div>
+
         <div>
     </div>
 
