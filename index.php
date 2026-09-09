@@ -142,9 +142,16 @@
         <div class=bg4-space>
             <img class="bg4" src="images/black-color-solid-background-1920x1080.png">
             <div>
-                <img class="feedback-card" src="
+                <img class="feedback-card" src="images/feedback card@3x.png">
                 <h1 class="feedback-header">Dont take our word for it</h1>
+                <p class="feedback-text">Feedback from our customers:</p>
             </div>
+            <div>
+                <img class="customer-feedback-bg" src="images/images.jpg">
+                <p class="customer-feedback-text">“This Aparrel really does pack quite the punch and has a lot to offer”<p>
+                <p class="customer-name">-"Customer"</p>
+            </div>
+            <img class="bottom-stripes" src="images/bottom stripe.png">
         </div>
     </div>
 
